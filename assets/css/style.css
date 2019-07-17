@@ -248,7 +248,7 @@ input[type=submit] {
    margin: 0;
   }
   body {
-    line-height: 19px;
+      line-height: 19px;
     font-size: 12px;
   }
   h1 {
